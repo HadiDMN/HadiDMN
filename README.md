@@ -32,7 +32,7 @@
         <img align="left" alt="linkdin" width="50" src="https://user-images.githubusercontent.com/86051445/185669213-85bb8f9a-7338-4c83-85ce-cdeddeeec627.png">   
     </a>
   <a href="https://discord.gg/VhC82Ay8Xd">
-        <img align="left" alt="Discord" width="50" src="https://user-images.githubusercontent.com/86051445/185709550-c9ae666d-36fc-4e1e-a797-019790ab9088.png">   
+        <img align="left" alt="Discord" width="50" src="https://user-images.githubusercontent.com/86051445/185709690-14145026-2103-4a04-9561-a52b15194332.png">   
     </a>
 </p>
 
