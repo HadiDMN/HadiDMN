@@ -13,7 +13,7 @@
 <samp>
 <li>🏷️ My name is <b>Mohammad Hadi Daman</b></li>
 <li>🎓 I'm a BC.s student at Tabriz University </li>
-<li>👨🏻‍💻 Most of my projects are available on <a href="https://github.com/HadiDMN">GitHub</a></li>
+<li>👨🏻‍💻 Most of my projects will be on <a href="https://github.com/HadiDMN">GitHub</a> ASAP! </li>
 <li>🌐 I'm living in Tabriz, East Azerbijan, Iran</a></li>
 <li>🎂 I was Born on 15th December, 2000 </li>
 <li>🌐 Visit my website for more... <a href="https://imhadi.ir">WebSite</a></li>
