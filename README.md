@@ -22,13 +22,13 @@
 </br>
 <h2 align="left">🔗 My accounts:</h2>
 <p align="left">
-      <a href="https://instagram.com/mhadidaman">
+      <a href="https://instagram.com/iamhadidmn">
         <img align="left" alt="python" width="50" src="https://user-images.githubusercontent.com/86051445/185669002-9e81fc83-c1c1-4f3b-99a5-dc3138b3e8d0.png">     
     </a>
     <a href="https://t.me/hadi_dmn">
         <img align="left" alt="telegram" width="50" src="https://user-images.githubusercontent.com/86051445/185669109-721013e6-4013-402e-9ad5-bd0d42ef353b.png">
     </a>
-    <a href="https://www.linkedin.com/in/mohammadhadidaman">
+    <a href="https://www.linkedin.com/in/mhadidaman">
         <img align="left" alt="linkdin" width="50" src="https://user-images.githubusercontent.com/86051445/185669213-85bb8f9a-7338-4c83-85ce-cdeddeeec627.png">   
     </a>
   <a href="https://discord.gg/VhC82Ay8Xd">
